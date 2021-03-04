@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/bitmap.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+bitmap.h
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/bitmap.h
+
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/bitmap.h
+stdint.h
+-
+stdio.h
+-
+fcntl.h
+-
+common.h
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/common.h
+
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/common.h
+
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/main.c
+bitmap.h
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/src/bitmap.h
+fcntl.h
+-
+

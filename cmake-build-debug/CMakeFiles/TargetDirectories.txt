@@ -1,0 +1,5 @@
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/nami/Desktop/C_99_final_proj/TBMap-master/cmake-build-debug/src/CMakeFiles/TBMap.out.dir
